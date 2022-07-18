@@ -1,0 +1,22 @@
+.students_list{
+    justify-content: center;
+}
+.students_list .col-xl-12{
+    width: 100%;
+}
+.students_list .col-xl-12 .card-body h4{
+    font-size: 30px;
+}
+.students_list .col-xl-12 .card-body .table{
+    width: 100%;
+}
+.students_list .col-xl-12 .card-body .table .thead-dark tr th{
+    font-size: 18px;
+    border: 1px solid #000;
+}
+.students_list .col-xl-12 .card-body .table .list_item_2 td{
+    padding: 5px;
+    font-size: 14px;
+    text-align: center;
+    border: 1px solid #000;
+}

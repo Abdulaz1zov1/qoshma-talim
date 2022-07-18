@@ -1,0 +1,35 @@
+.PaySlip {
+    width: 620px;
+    /* height: 877px; */
+    background-color: white;
+    margin: 0 auto;
+    border: 1px solid red;
+    margin-top: 20px;
+}
+/* .PaySlip .header{
+    margin-top: 20px;
+} */
+.PaySlip .header h3,p{
+    text-align: center;
+}
+.PaySlip table{
+    border: 1px solid black;
+    width: 100%;
+}
+.PaySlip table .left{
+    width: 100px;
+    background-color: #333;
+    text-align: center;
+}
+.PaySlip table .right{
+    width: 520px;
+    border: 1px solid black;
+}
+.PaySlip .border-br{
+    border: 1px solid black;
+}
+
+.PaySlip table tr{
+    margin: 0;
+    width: 100%;
+}
